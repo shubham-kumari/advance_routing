@@ -46,4 +46,3 @@ coverage/
 
 # Ignore any compiled JavaScript/TypeScript files
 *.tsbuildinfo
-*.js
